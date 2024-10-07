@@ -114,6 +114,7 @@ input {
     padding: 15px 30px;
     height: 55px;
     width: 100%;
+    background-color: transparent;
 }
 
 input::placeholder {
